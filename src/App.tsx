@@ -5,6 +5,8 @@ import { Layout } from './components/Layout/Layout';
 import { ScreenCurtain } from './components/ScreenCurtain/ScreenCurtain';
 import { AboutUs } from './components/AboutUs/AboutUs';
 import { FeedBack } from './components/FeedBack/FeedBack';
+import { Gallery } from './components/Gallery/Gallery';
+import { Footer } from './components/Footer/Footer';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
           <ScreenCurtain/>
           <AboutUs/>
           <FeedBack/>
+          <Gallery/>
+          <Footer/>
        </LayoutContent>
     </Layout>
   );

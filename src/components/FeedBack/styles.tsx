@@ -41,8 +41,7 @@ export const FaqTextContent = styled.div `
     & button{
         width: 400px;
         position: relative;
-        top:50px;
-        font-weight:500;
+        top:25px;
         letter-spacing:1px;
 }
 ` 
