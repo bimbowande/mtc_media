@@ -3,7 +3,6 @@ import { FooterContainer, FooterContent, FooterLinkContainer, FooterLogo, Footer
 import logo from '../../Assets/Images/logo.svg';
 import bgImage from '../../Assets/Images/overlay/Bitmap.png'
 import { LinkComp } from './LinkComp';
-import { faAngleRight } from '@fortawesome/free-solid-svg-icons'
 import { SocialLinks } from './SocialLinks';
 import fb from '../../Assets/Images/facebook.svg';
 import ig from '../../Assets/Images/instagram.svg';
