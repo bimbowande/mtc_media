@@ -60,8 +60,11 @@ export const FooterOption = styled.div`
             text-transform:uppercase;
             padding-bottom:10px;
             opacity: 0.5;
-            font-size:.69rem;
-            font-family:'Helvetica'
+            font-size:.769rem;
+            font-family:'Helvetica';
+            &:hover{
+                font-weight:500;
+            }
         }
     }
     & div{

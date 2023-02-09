@@ -94,6 +94,9 @@ export const NavLinkContainer = styled.div`
             font-family:'Roboto';
             letter-spacing: 2px;
             font-weight:300;
+            &:hover{
+                font-weight:400;
+            }
         }
     }
 `
