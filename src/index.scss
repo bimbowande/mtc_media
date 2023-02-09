@@ -1,3 +1,5 @@
+@import '../src/styles/General/Typography/fonts.scss';
+
 *{
   margin: 0;
   padding:0;
@@ -27,6 +29,9 @@ p,button{
   font-family: 'Roboto', sans-serif;
 }
 
+h3{
+  font-family:'Helvetica'
+}
 button{
   border:none;
   outline:0;

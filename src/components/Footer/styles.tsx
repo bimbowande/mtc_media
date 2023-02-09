@@ -59,7 +59,9 @@ export const FooterOption = styled.div`
             list-style-type:none;
             text-transform:uppercase;
             padding-bottom:10px;
-            opacity: 0.8;
+            opacity: 0.5;
+            font-size:.69rem;
+            font-family:'Helvetica'
         }
     }
     & div{
